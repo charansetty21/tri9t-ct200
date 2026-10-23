@@ -1,0 +1,7 @@
+PyMuPDF
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+httpx
+pytest

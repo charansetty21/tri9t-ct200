@@ -1,0 +1,64 @@
+{
+  "added": [
+    {
+      "id": "cfe5a345-3652-5ba2-8003-8b446bc27f95",
+      "heading": "5.3 Data Export"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "id": "26801c7b-fa30-5666-8048-acd65e19a9f1",
+      "old_heading": "4.2 Error Codes",
+      "new_heading": "4.2 Error Codes",
+      "old_hash": "4b040a31f58305c6bc564d10d96943e5bd8756624c362a139bb65b7c55dc1fe0",
+      "new_hash": "178caa14b3179d7087f5685ef9336e0f8f85b0154ffbf70b317cec1605428131"
+    },
+    {
+      "id": "3bb9b3e3-5115-5ab7-a2a6-de60bd4bd29d",
+      "old_heading": "4.3 Alarm Thresholds",
+      "new_heading": "4.3 Alarm Thresholds",
+      "old_hash": "ca38867006beabb2f0f7e0230444b697a25c8d1d735a96b9b1eabc30c7444605",
+      "new_hash": "3c02308b81a4b4cf6434604415ff1387c97e03acb5497472e8599f6d512b32b2"
+    },
+    {
+      "id": "6507e1bf-4071-5ae9-b00a-c7ddc7f71f5c",
+      "old_heading": "2.1.1.1 Battery Life Under Typical Use",
+      "new_heading": "2.1.1.1 Battery Life Under Typical Use",
+      "old_hash": "fa82a6cec2040c9403525b217b917381a34edc61c0351087094e40db45dd10f2",
+      "new_hash": "a3e37ac9f192556c600b5f9c1160dcf4dea8effcf92cf0d1e2c035ff289e4fcd"
+    },
+    {
+      "id": "d57e4842-50bc-5f4e-ad82-bc4cc03ce8eb",
+      "old_heading": "3.2 Cuﬀ Inﬂation Sequence",
+      "new_heading": "3.2 Cuﬀ Inﬂation Sequence",
+      "old_hash": "75b45dc6e2692d3198609ab0da0f151223639db6049c56b27349c475a70bd3ce",
+      "new_hash": "851821dd394e0c699af55857a38a2a98bbee6ee796da09c04b042a7fa66e931f"
+    }
+  ],
+  "unchanged": [
+    "0375564d-1234-5ee8-a560-fbf165f185b1",
+    "08e28ddc-0718-5ff6-91f3-74d2d7a98c2e",
+    "0b3b2046-1ef3-5e79-9b27-5d6c0231c195",
+    "0d2e0963-e887-543d-84e5-a411014b8800",
+    "1cb67b19-2a71-5aaf-81c0-574691aae18f",
+    "2c352de8-b70e-556c-bd54-d3bf6c223ae7",
+    "2fbf1f87-9d87-5b71-9ec5-847a0c5cca6f",
+    "52baa0f3-1154-5750-b31b-d40b4a8f3b69",
+    "58ade197-bc6a-5a9b-b46f-4cb2ef617e76",
+    "6338c310-e992-545b-9726-71acdfd66a06",
+    "70676ad5-205f-5b5f-9f41-154075ccb7aa",
+    "77b0c61a-3786-5778-8609-4bebe9af116d",
+    "87f196aa-7ebf-5ed8-9844-743ceb7a0e3b",
+    "89fc608f-e5c9-5d5e-bab1-52ef488ca686",
+    "8ae43b8e-67ba-5782-b5b9-6e5ed92d9b2a",
+    "8d76ccf0-9e3c-58a3-8b22-465501d5b742",
+    "93f5e407-26b4-53d7-a0ba-a7ec3374a224",
+    "a11e615a-2116-54b0-b9f8-6140f6caf945",
+    "aaf9128e-cc7f-5ec8-a519-1bf6f8cd6a16",
+    "b8c42028-e8e6-51a2-b90a-b4f5611b1e02",
+    "dea2c367-c404-5875-9840-3e2dbfc5ddd5",
+    "ebb9be26-b6a1-5720-8306-4e381fb3706a",
+    "f2f51f54-4e0c-5e04-a813-c4d28df803b2"
+  ]
+}
